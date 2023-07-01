@@ -23,6 +23,8 @@ if (typeof editor === 'undefined') {
   loadSpinner();
 }
 
+console.log('aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa');
+
 // Check if service workers are supported
 if ('serviceWorker' in navigator) {
   // register workbox service worker
